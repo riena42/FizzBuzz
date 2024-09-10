@@ -4,7 +4,7 @@
  */
 public class FizzBuzz {
 
-    public static void main() {
+    public static void hi() {
         int i = 1;
         while (i<100) {
 
