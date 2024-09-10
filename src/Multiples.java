@@ -1,5 +1,5 @@
-public class Main {
+public class Multiples {
     public static void main(String[] args) {
-        FizzBuzz.doFizzBuzz();
+
     }
 }
