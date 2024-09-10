@@ -343,7 +343,7 @@ Tip: Just like with `psvm`, you can start typing `sout` and then press Enter to 
 
 If you don't get the right answer, that's okay for now.
 This is to get you to practice. You'll have until the end of the week to work out the details and submit your
-working code on MarkUs.
+working code on MarkUs.n
 
 ## Task 5: Reduce a number to 0
 
