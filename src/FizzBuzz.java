@@ -6,7 +6,7 @@ public class FizzBuzz {
 
     public static void doFizzBuzz() {
         int i = 1;
-        while (i<100) {
+        while (i<1000) {
 
             i = doFizzBuzz(i);
         }
