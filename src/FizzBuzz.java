@@ -4,7 +4,7 @@
 public class FizzBuzz {
 
     public static void main() {
-        int i = 1;;
+        int i = 1;
         while (i<100) {
 
             i = doFizzBuzz(i);
